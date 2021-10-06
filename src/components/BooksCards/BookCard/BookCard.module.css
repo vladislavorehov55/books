@@ -1,0 +1,33 @@
+.card {
+    display: flex;
+    list-style: none;
+    background-color: rgb(243, 242, 241);
+    padding: 5px;
+}
+.link {
+    color: black;
+    text-decoration: none;
+}
+.imgWrap {
+    display: flex;
+    justify-content: center;
+}
+.img {
+    width: auto;
+    height: 128px;
+    margin-bottom: 10px;
+}
+.category {
+    font-weight: 300;
+    font-size: 12px;
+    margin-bottom: 10px;
+}
+.title {
+    font-weight: 700;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+.authors {
+    font-weight: 300;
+    font-size: 12px;
+}

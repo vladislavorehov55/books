@@ -1,0 +1,33 @@
+.wrap {
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+.imgWrap {
+    background-color: rgb(241, 242,243);
+    flex-basis: 400px;
+    min-height: 100px;
+    display: flex;
+    justify-content: space-around;
+    margin-right: 10px;
+}
+.img {
+    width: auto;
+    height: 300px;
+    margin-right: 20px;
+}
+.category {
+    font-weight: 300;
+    font-size: 12px;
+    margin-bottom: 10px;
+}
+.title {
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+.descr {
+    border: 1px solid black;
+    padding: 5px;
+    font-weight: 300;
+    font-size: 12px;
+}
